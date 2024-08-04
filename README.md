@@ -1,6 +1,6 @@
-# MikScrollingBattleText (MSBT)
-
 **This project aims to update and maintain the MikScrollingBattleText (MSBT) addon, which may have been abandoned, while the original author continues their updates or if the project remains unmaintained.**
+
+# MikScrollingBattleText (MSBT)
 
 **MikScrollingBattleText (MSBT)** is a lightweight, efficient, and highly configurable addon for World of Warcraft that enhances the visibility of combat information by scrolling it across the screen in separate, dynamically creatable scroll areas. This project aims to update and maintain the addon while the original author continues their updates or in case the project becomes abandoned.
 
